@@ -1,5 +1,9 @@
 # 待办
 
+## 练手任务
+
+1. 语言选择框改为可输入搜索的（封装一个 select input 组件，类似 https://ux.stackexchange.com/questions/134145/custom-select-component-with-filtering ）
+
 ## 一期
 
 1. 无限滚动和浏览历史
