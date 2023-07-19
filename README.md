@@ -15,7 +15,11 @@
 1. 支持上传图片
 1. 爬虫抓取量的监控系统
 1. Redis 集群搭建
-1. [Citus 分布式集群多种部署方案](https://zhuanlan.zhihu.com/p/487236016)
+1. PostgreSQL 集群搭建
+
+   1. [Citus 分布式集群多种部署方案](https://zhuanlan.zhihu.com/p/487236016)
+   1. [PostgreSQL 运维—分布式 Citus 单机多实例部署](https://www.modb.pro/db/440674)
+
 1. 上线发文到各个社区
 
 ## 后续
