@@ -35,6 +35,15 @@
 
 ## 后续
 
+1. 申请收费通道
+
+   1. [Google Pay](https://developers.google.com/pay/api?hl=zh-cn)
+   2. [Yandex Pay](https://pay.yandex.ru/en/docs/console)
+
+1. 付费用户可以搜索收藏的图片
+1. 上传图片空间需要付费
+1. 可以贩卖关键词和绘图流程
+1. 可以悬赏作图 / 修图需求
 1. 时间筛选支持自定义时间段
 1. 以图搜图
 1. 人脸搜索
