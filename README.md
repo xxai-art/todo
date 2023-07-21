@@ -40,7 +40,11 @@
    1. [Google Pay](https://developers.google.com/pay/api?hl=zh-cn)
    2. [Yandex Pay](https://pay.yandex.ru/en/docs/console)
 
-1. 付费用户可以搜索收藏的图片
+1. 收藏的图片可以分类，可以写描述，参考 [raindrop](https://raindrop.io)
+
+   ![](https://pub-b8db533c86124200a9d799bf3ba88099.r2.dev/2023/07/_HNirQr.webp)
+
+1. 付费用户可以搜索收藏的图片，免费用户每分钟只能搜索 1 次
 1. 上传图片空间需要付费
 1. 可以贩卖关键词和绘图流程
 1. 可以悬赏作图 / 修图需求
